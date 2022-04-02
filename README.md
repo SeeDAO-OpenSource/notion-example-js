@@ -1,8 +1,8 @@
-# Notion Example (nodejs)
+# ✅ Notion Example (nodejs)
 
-本 Repository 是为了验证 Integration 的 `Notion API Key‵ 与 Notion Database 页面有正确加入 Integration 的 Nodejs 范例程序
+> 🔰 本程序偏向新手友善，欢迎 Nodejs 初学者学习理解，并在开发者公会中分享研究心得
 
-如果无法正常取得数据, 可能需要到 Discord 联系运营公会与开发者公会成员
+本 Repository 是为了验证 Notion Integration 的 API Key 与 Notion Database 页面有正确加入 Integration 的 Nodejs 范例程序。如果无法正常取得数据, 可能需要到 Discord 联系运营公会与开发者公会成员 `@Ricky Wang`。
 
 ## 快速开始
 
